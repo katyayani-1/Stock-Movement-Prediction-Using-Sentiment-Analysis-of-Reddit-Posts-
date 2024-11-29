@@ -18,7 +18,8 @@ pip install -r requirements.txt
 
 Get Reddit API credentials by creating an app on Reddit and update them in scraper.py.
 
-Run the Scripts1. Scrape Reddit data
+Run the Scripts
+1.Scrape Reddit data
 python scraper.py
 
 2.Perform Sentiment Analysis:
