@@ -3,6 +3,7 @@ Setup
 Clone the repo:
 
 git clone https://github.com/yourusername/StockSentimentProject.git
+
 cd StockSentimentProject
 
 Create and activate a virtual environment:
